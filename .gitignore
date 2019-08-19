@@ -1,0 +1,9 @@
+node_modules
+node_modulesbak
+.idea
+.git
+.DS_Store
+dist*
+package/Dockerfile
+package/dist
+yarn.lock
